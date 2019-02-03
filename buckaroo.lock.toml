@@ -1,4 +1,4 @@
-manifest = "e695245fcba10c7d2f7461b7f767692326605bae2242ad95ba0c1f21b759622a"
+manifest = "b0ac0a58c7f61eba9bb1b6195e2745a462fa3b4abfb0ad625c32bc8d2abb3733"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-assert"
